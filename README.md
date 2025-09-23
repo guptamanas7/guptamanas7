@@ -1,28 +1,35 @@
-# 👋 Hi, I'm Manas Gupta  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/ppjK0zh.gif" width="80" />  
+</p>
 
-🚀 **Machine Learning | GenAI | Data Science | NLP**  
-🎓 Master's Student – Department of Engineering Physics @ IIT BHU  
+<h1 align="center">Hi, I'm Manas Gupta 👋</h1>
+<h3 align="center">Machine Learning | Generative AI | Data Science | NLP</h3>
 
-I am passionate about building impactful AI/ML solutions, experimenting with cutting-edge **Generative AI models**, and exploring the intersection of **data science, deep learning, and real-world applications**.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=2AF7D8&center=true&vCenter=true&width=500&lines=Master's+Student+@+IIT+BHU;Generative+AI+Enthusiast;Deep+Learning+%7C+NLP+%7C+Data+Science;Let's+Build+Something+Cool!">
+</p>
 
 ---
 
 ## 🧠 About Me  
 
+<img align="right" alt="AI GIF" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="250" />
+
 - 🔭 **Currently Working On:**  
-  - Neural Machine Translation (NMT) for English–Marathi conversion (speech-to-speech pipeline)  
-  - DFT-based simulations for polymer structures & materials research  
-  - Building interactive dashboards for sports analytics using **Power BI**  
+  - 🗣️ Speech-to-Speech Translator (English ↔ Marathi)  
+  - 🧪 DFT simulations for polymer systems  
+  - 📊 Interactive sports analytics dashboards using Power BI  
 
-- 🌱 **Currently Learning:**  
-  - Large Language Models (LLMs) fine-tuning & RAG  
-  - Advanced Deep Learning architectures (Transformers, CNNs)  
-  - Data Engineering and scalable ML pipelines  
+- 🌱 **Learning:**  
+  - Fine-tuning LLMs & building RAG pipelines  
+  - Advanced Transformer architectures & optimization techniques  
+  - Data Engineering for scalable ML pipelines  
 
-- 🎯 **Goals for 2025:**  
-  - Publish more research on AI/ML applications  
-  - Contribute to open-source GenAI projects  
-  - Build AI-powered tools that solve real student pain points (JEE prep guides, content generators)  
+- 🎯 **Goals:**  
+  - Publish more research in AI/ML  
+  - Contribute to open-source **GenAI** projects  
+  - Build AI-powered student tools (JEE prep, content generators)
 
 ---
 
@@ -30,37 +37,69 @@ I am passionate about building impactful AI/ML solutions, experimenting with cut
 
 | Project | Description | Tech Stack |
 |--------|-------------|-----------|
-| **🎙️ Speech-to-Speech Translator** | End-to-end pipeline converting English speech → Marathi speech using ASR + NMT + TTS | Python, TensorFlow, Tacotron, WaveGlow |
-| **📊 T20 World Cup Analytics** | Power BI dashboard analyzing match & player performance | Power BI, DAX |
-| **🧪 Polymer DFT Analysis** | Computational study of polyethylene & polypyrrole using Gaussian | Gaussian, GaussView, Python |
-| **😊 Emotion Recognition** | CNN-based model to classify human emotions from facial expressions | Python, Keras, OpenCV |
+| ![mic](https://img.icons8.com/emoji/25/microphone-emoji.png) **Speech-to-Speech Translator** | English speech → Marathi speech (ASR + NMT + TTS) | Python, TensorFlow, Tacotron, WaveGlow |
+| ![chart](https://img.icons8.com/emoji/25/chart-increasing.png) **T20 World Cup Analytics** | Power BI dashboard analyzing strategies & performance | Power BI, DAX |
+| 🧪 **Polymer DFT Analysis** | Computational study of polyethylene & polypyrrole | Gaussian, GaussView, Python |
+| 😃 **Emotion Recognition** | CNN model classifying emotions from facial images | Python, Keras, OpenCV |
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python, C++, SQL  
-- **ML/DL:** TensorFlow, PyTorch, Scikit-learn  
-- **GenAI:** LangChain, OpenAI API, Hugging Face Transformers  
-- **Data Science Tools:** Pandas, NumPy, Power BI, Matplotlib  
-- **Simulation & Modeling:** Gaussian, Quantum ESPRESSO  
-- **Other:** Git, Docker, REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,docker,mysql,pandas,numpy,sklearn" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,github,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Manas's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasgupta-iitbhu&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manasgupta-iitbhu&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptamanas7&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptamanas7&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamanas7&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guptamanas7&theme=tokyonight&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Pinned Repositories  
+
+<p align="center">
+  <a href="https://github.com/guptamanas7/Speech-to-Speech-Translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=Speech-to-Speech-Translator&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/guptamanas7/T20-WorldCup-Analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=T20-WorldCup-Analytics&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/manasgupta-iitbhu/)  
-- 📝 [ResearchGate](https://www.researchgate.net/) (for published papers)  
-- 📧 manasgupta@email.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/guptamanas7/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
+  <a href="mailto:g7manas@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
+</p>
 
 ---
 
-⭐ **Let's collaborate!** I'm open to contributing to **GenAI projects, research collaborations, and open-source ML tools**.  
+<p align="center">
+  ⭐ Let's collaborate on <b>GenAI, ML research, or open-source data science projects!</b>  
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
+</p>
