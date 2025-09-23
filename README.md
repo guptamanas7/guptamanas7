@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/ppjK0zh.gif" width="80" />  
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="1000" />  
 </p>
 
 <h1 align="center">Hi, I'm Manas Gupta 👋</h1>
-<h3 align="center">Machine Learning | Generative AI | Data Science | NLP</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=2AF7D8&center=true&vCenter=true&width=500&lines=Master's+Student+@+IIT+BHU;Generative+AI+Enthusiast;Deep+Learning+%7C+NLP+%7C+Data+Science;Let's+Build+Something+Cool!">
