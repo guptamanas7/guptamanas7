@@ -5,27 +5,23 @@
 
 <h1 align="center">Hi, I'm Manas Gupta 👋</h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=2AF7D8&center=true&vCenter=true&width=500&lines=Master's+Student+@+IIT+BHU;Generative+AI+Enthusiast;Deep+Learning+%7C+NLP+%7C+Data+Science;Let's+Build+Something+Cool!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=2AF7D8&center=true&vCenter=true&width=500&lines=Master's+Student+%40+IIT+BHU;Generative+AI+Enthusiast;Deep+Learning+%7C+NLP+%7C+Data+Science;Let's+Build+Something+Cool!" />
 </p>
 
 ---
 
 ## 🧠 About Me  
-
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="250" />
 
 - 🔭 **Currently Working On:**  
   - 🗣️ Speech-to-Speech Translator (English ↔ Marathi)  
   - 🧪 DFT simulations for polymer systems  
   - 📊 Interactive sports analytics dashboards using Power BI  
-
 - 🌱 **Learning:**  
   - Fine-tuning LLMs & building RAG pipelines  
   - Advanced Transformer architectures & optimization techniques  
   - Data Engineering for scalable ML pipelines  
-
 - 🎯 **Goals:**  
   - Publish more research in AI/ML  
   - Contribute to open-source **GenAI** projects  
@@ -57,9 +53,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guptamanas7&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptamanas7&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=guptamanas7&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamanas7&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
@@ -77,11 +72,11 @@
 ## 📌 Pinned Repositories  
 
 <p align="center">
-  <a href="https://github.com/guptamanas7/Speech-to-Speech-Translator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=Speech-to-Speech-Translator&theme=tokyonight" />
+  <a href="https://github.com/guptamanas7/The-MAY-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=The-MAY-Project&theme=tokyonight" />
   </a>
-  <a href="https://github.com/guptamanas7/T20-WorldCup-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=T20-WorldCup-Analytics&theme=tokyonight" />
+  <a href="https://github.com/guptamanas7/RandomProjects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=RandomProjects&theme=tokyonight" />
   </a>
 </p>
 
@@ -99,7 +94,6 @@
 <p align="center">
   ⭐ Let's collaborate on <b>GenAI, ML research, or open-source data science projects!</b>  
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" />
 </p>
