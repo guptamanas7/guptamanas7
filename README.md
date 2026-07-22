@@ -43,8 +43,11 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,docker,mysql,pandas,numpy,sklearn" /><br/>
-  <img src="https://skillicons.dev/icons?i=cpp,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,docker,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,github,linux" /><br/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
 ---
@@ -52,11 +55,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptamanas7&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api?username=guptamanas7&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160" />
   <img src="https://streak-stats.demolab.com/?user=guptamanas7&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptamanas7&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=guptamanas7&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -73,10 +76,10 @@
 
 <p align="center">
   <a href="https://github.com/guptamanas7/The-MAY-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=The-MAY-Project&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=guptamanas7&repo=The-MAY-Project&theme=tokyonight" />
   </a>
   <a href="https://github.com/guptamanas7/RandomProjects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptamanas7&repo=RandomProjects&theme=tokyonight" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=guptamanas7&repo=RandomProjects&theme=tokyonight" />
   </a>
 </p>
 
